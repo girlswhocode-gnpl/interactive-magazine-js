@@ -1,10 +1,19 @@
-
 button {
   background-color: lavender;
+}
+h1 {
+  color: blue;
 }
 .anna {
   font-family:cursive;
 }
 #demo{
   background: yellow;
+}
+div{
+  border: solid 1px red;
+}
+
+#button{
+  border: solid 2px purple;
 }
