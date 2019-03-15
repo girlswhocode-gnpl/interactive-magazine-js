@@ -5,15 +5,30 @@ h1 {
   color: blue;
 }
 .anna {
-  font-family:cursive;
+  font-family:Arial;
 }
+
 #demo{
-  background: yellow;
+  background: rgb(254, 254, 196);
 }
 div{
   border: solid 1px red;
+  text-align: center;
 }
 
 #button{
   border: solid 2px purple;
+  margin: 35px;
+}
+
+p{
+  color:green;
+  font-family: fantasy;
+}
+#minion{
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 50%;
+  height: 50%;
 }
